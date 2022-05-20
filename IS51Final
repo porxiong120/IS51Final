@@ -11,3 +11,18 @@ The first function named main will start the application.
 The second function named calculate percent above average will 
 calculate the percentage of grades that are above the average grade.
 """
+
+"""
+Main function 
+Open file Final.txt in read mode 
+set grades to read the file from the right - use line.rstrip()
+close the file 
+
+calculate_percent_above_average(grades)
+for loop to find average 
+for loop to find find the length of grades
+
+print number of grades 
+print average grade 
+print percentage of grades above average
+"""
