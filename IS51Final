@@ -13,12 +13,12 @@ calculate the percentage of grades that are above the average grade.
 """
 
 """
-Main function 
+main function 
 Open file Final.txt in read mode 
 set grades to read the file from the right - use line.rstrip()
 close the file 
 
-calculate_percent_above_average(grades)
+calculate_percent_above_average(grades) function
 for loop to find average 
 for loop to find find the length of grades
 
